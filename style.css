@@ -1,0 +1,151 @@
+body {
+    background-color: honeydew;
+    margin: 0;
+    border: 1px solid grey;
+}
+h1 {
+    text-align: center;
+}
+.writer-image {
+    display: flex;
+    margin-top: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.w-image {
+    width: 1300;
+    height: 600;
+}
+.artist-credit {
+    text-align: right;
+    padding-right: 100px;
+    font-style: italic;
+    color: grey;
+}
+.heading1 {
+    font-size: 170%;
+    text-align: center;
+    margin-top: 20px;
+}
+.miller-image {
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.m-image {
+    width: 800;
+    height: 500;
+}
+.miller {
+    text-align: center;
+}
+.miller-description {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+h4 {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+ul {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    list-style: inside;
+    margin-bottom: 50px;
+    margin-right: 55px;
+}
+.heading2 {
+    text-align: center;
+    font-size: 170%;
+    margin-top: 20px;
+}
+.atwood-image {
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.a-image {
+    width: 500;
+    height: 600;
+}
+.atwood {
+    text-align: center;
+}
+.atwood-description {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.heading3 {
+    text-align: center;
+    font-size: 170%;
+    margin-top: 20px;
+}
+.rothfuss-image {
+    display: flex;
+    margin-top: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.r-image {
+    width: 500;
+    height: 500;;
+}
+.rothfuss {
+    text-align: center;
+}
+.rothfuss-description {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.table-paragraph {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    text-align: center;
+}
+table {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+    font-size: 110%;
+    letter-spacing: 1.2px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.conclusion-image {
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.conclusion-paragraph {
+    font-size: 125%;
+    letter-spacing: 1.2px;
+    text-align: center;
+    color: firebrick;
+}
+.video {
+    text-align: center;
+}
+.form-paragraph {
+    font-size: 120%;
+    letter-spacing: 1.2px;
+    text-align: left;
+    margin-left: 70px;
+}
+form {
+    font-size: 100%;
+    text-align: left;
+    margin-left: 70px;
+}
